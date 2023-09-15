@@ -1,0 +1,3 @@
+module company {
+	exports selenium;
+}
